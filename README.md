@@ -1,6 +1,6 @@
 <h1> Receita da 👨🏻‍🍳 </h1>
 <p>É um site de receitas onde a pessoa que fizer o login pode criar a receita.</p>
-<img src="https://github.com/franwanderley/moveit_NLW4/blob/main/src alt="rifatube">
+<img src="https://github.com/franwanderley/receitas/blob/master/src/img/resuReceita.png?raw=true" alt="rifatube">
 
 <p>Este Projeto foi feito para vaga de desenvolvedor front-end Private Code </p>
 
