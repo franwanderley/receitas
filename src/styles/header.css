@@ -1,0 +1,65 @@
+.header{
+   padding: 1.5% 2%;
+   margin-bottom: 3%;
+   display: flex;
+   width: 100%;
+   flex-direction: row;
+   align-items: center;
+   justify-content: space-between;
+   text-align: center;
+   border-bottom : 1.5px solid #444;
+}
+
+.header h2{
+   font-size: 25px;
+   font-weight: 500;
+   margin: 0;
+}
+
+.header form {
+   border: 1px solid #aaa;
+   padding: 8px;
+   margin : 2% 0%;
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+ }
+ 
+.header form > input, header form > input:focus {
+   border: none;
+   outline: none;
+   font-size: 15px;
+ }
+ 
+.header form > button {
+   background: #fff;
+   border: none;
+   cursor: pointer;
+   color: #130400;
+   padding: 1px 10px;
+}
+
+.perfil {
+   height: 56px;
+   line-height: 56px;
+}
+.perfil a{
+   font-size: 1.2em;
+   color : rgb(0, 0, 0);
+   cursor : pointer;
+}
+.perfil a:last-child{
+   margin-left: 20px;
+}
+.perfil a:hover{
+   color : #aaa;
+}
+
+.img{
+   width: 56px;
+   height: 56px;
+   margin : 2% 0;
+}
+.image a{
+   margin: 0%;
+}

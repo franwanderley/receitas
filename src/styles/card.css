@@ -1,0 +1,44 @@
+.card{
+   display: block;
+   padding : .5% 1%;
+   max-width: 30%;
+   min-width: 30%;
+   border-radius: 4%;
+   box-shadow: 0px 2px 2px 5px #e1e2e3;
+   background-color: #ebebeb;
+   text-align: center;
+}
+
+.card h3{
+   font-weight: 700;
+   font-size: 1.3em;
+   margin: 1.5% 2%;
+   margin-top: 0;
+   color: #444;
+}
+.card img{
+   max-width: 300px;
+   margin: 2% 0%;
+}
+.card p{
+   font-size: 15px;
+   
+}
+.card .footer{
+   margin-top: 20px;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   align-items: center;
+}
+.card .footer a{
+   color: #e1e2e3;
+   background-color: #e81224;
+   padding: 2%;
+   border-radius: 6px;
+   border: none;
+   transition: filter .2s;
+}
+.card .footer a:hover{
+   filter: opacity(.8);
+}
