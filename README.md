@@ -19,6 +19,8 @@
     <li>É preciso ter NodeJS > 10.0 e npm >= 6.0</li>
     <li>cd 'seu diretorio'</li>
     <li>npm install</li>
+    <li>É preciso configurar o <a href="https://github.com/franwanderley/receitas-server" >back-end</a></li>
+    <li>Configurar .env com REACT_APP_SERVER o endereço do back-end </li>
     <li>npm run dev</li>
      <strong>Pronto dps é só acessar a aplicação em http://localhost:3000/</strong>
  </ul>
